@@ -1,0 +1,15 @@
+# 本地工具二进制（体积大，用 scripts/fetch_tools.ps1 获取）
+tools/*.exe
+tools/*.dll
+
+# Python
+__pycache__/
+*.pyc
+
+# 运行产物
+*.log
+启动错误.log
+Anime4K输出/
+
+# 临时文件
+rect.txt
